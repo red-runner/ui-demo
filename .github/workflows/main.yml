@@ -29,10 +29,6 @@ jobs:
       # Install dependencies
       - name: install-dependencies
         run: yarn
-
-      # Runs a single command using the runners shell
-      - name: storybook
-        run: yarn run build-storybook
       # Runs a single command using the runners shell
       - name: chromatic
         run: yarn run chromatic
