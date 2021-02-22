@@ -6,9 +6,10 @@
   cursor: pointer;
   display: inline-block;
   line-height: 1;
+  min-height: 50px;
 }
 .storybook-button--primary {
-  color: orange;
+  color: pink;
   background-color: #1ea7fd;
 }
 .storybook-button--secondary {
@@ -17,7 +18,7 @@
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
 }
 .storybook-button--small {
-  font-size: 12px;
+  font-size: 30px;
   padding: 10px 16px;
 }
 .storybook-button--medium {
