@@ -9,15 +9,7 @@
   min-height: 50px;
 }
 .storybook-button--primary {
-<<<<<<< HEAD
-  color: orange;
-=======
-<<<<<<< Updated upstream
-  color: red;
-=======
   color: pink;
->>>>>>> Stashed changes
->>>>>>> 84ad27b (feat(styles): add new styles)
   background-color: #1ea7fd;
 }
 .storybook-button--secondary {
