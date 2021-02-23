@@ -38,11 +38,11 @@ li {
 .tip {
   display: inline-block;
   border-radius: 1em;
-  font-size: 11px;
+  font-size: 20px;
   line-height: 12px;
   font-weight: 700;
   background: #e7fdd8;
-  color: blue;
+  color: pink;
   padding: 4px 12px;
   margin-right: 30px;
   vertical-align: top;
@@ -57,13 +57,13 @@ li {
 
 .tip-wrapper svg {
   display: inline-block;
-  height: 12px;
-  width: 12px;
+  height: 30px;
+  width: 30px;
   margin-right: 4px;
   vertical-align: top;
   margin-top: 3px;
 }
 
 .tip-wrapper svg path {
-  fill: #1ea7fd;
+  fill: orange;
 }

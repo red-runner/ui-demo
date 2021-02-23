@@ -9,8 +9,8 @@
   min-height: 50px;
 }
 .storybook-button--primary {
-  color: pink;
-  background-color: #1ea7fd;
+  color: black;
+  background-color: pink;
 }
 .storybook-button--secondary {
   color: #333;
